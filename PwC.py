@@ -1,4 +1,4 @@
-mapbox_access_token = "pk.eyJ1IjoiYXNoaXNoamhhMjEiLCJhIjoiY2t2YmJvdTdtMjdqdDMzb2t4NmNvdHE4NiJ9.ZqBYpLao0YBfuaLa7fuWew"
+mapbox_access_token = "pk.eyJ1IjoiYXNoaXNoamhhMjEiLCJhIjoiY2t2YmJvdTdtMjdqdDMzb2t4NmNvdHE4NiJ9.ZqBYpLao0YBfuaLa7fuWew"1
 import datetime
 from datetime import date
 import pandas as pd
